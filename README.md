@@ -91,6 +91,7 @@ Dosyanın son hali böyle olmalıdır.
 
 * **Computer Vision (CV):** Ideogram arayüzündeki etkileşimler (buton tıklama vb.) için UiPath Proje Ayarlarından (veya Config dosyasından) UiPath Computer Vision API Key doğrulamasını mutlaka sağlayın.
 * **Ideogram Platformu:** Platformda üretim yapabilecek yeterli kredinizin bulunduğundan ve tarayıcıda oturumunuzun açık olduğundan emin olun.
+
 ## 📂 Dosya Yapısı
 
 ```text
@@ -109,6 +110,8 @@ Yapay_Zeka_Destekli_Tasarim_Uretim_Yukleme_Sureci/
     ├── 04-Optimize-Process/        
     ├── 05-Final-Process/           
     └── 06-Reports-Archive/
+...
+
 ## 🛠️ Değişken Tanımlama Adımları
 
 Projenin sürdürülebilirliği ve tüm alt akışların (Workflows) aynı ayar setine erişebilmesi için aşağıdaki yapılandırma zorunludur:
