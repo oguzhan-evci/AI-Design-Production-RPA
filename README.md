@@ -151,7 +151,7 @@ Seçtiğiniz resmi masaüstüne veya rastgele bir yere değil, **MUTLAKA proje i
 
 Kullanıcı olarak en kaliteli tasarımı seçip 03-Gemini-Temp klasörüne manuel kaydettikten sonra Tamam 'a tıkladığınızda; geriye kalan tüm işlemler (Gemini SEO Analizi, RegEx İsimlendirme, Python ile Arka Plan Silme ve Gmail Raporlama) saniyeler içinde otonom olarak gerçekleşir.
 
-✨ Gelecek Planları (Future Roadmap)
+# ✨ Gelecek Planları (Future Roadmap)
 Bu proje, modüler bir RPA mimarisi üzerine inşa edilmiş olup, gelecek sürümlerde aşağıdaki geliştirmelerin entegre edilmesi planlanmaktadır:
 
 * Minimum Hard-Coding ve Kolay Kurulum: Projede sabit kod (hard-coding) kullanımı en aza indirilerek tüm kritik veriler Config.xlsx dosyasına bağlanmış ve son kullanıcı için hızlı/kolay kurulum sağlanmıştır. Gelecek aşamada, bu ayarların doğrudan UiPath Orchestrator Asset'lerine taşınarak tamamen bulut üzerinden yönetilebilir bir yapıya geçilmesi planlanmaktadır.
