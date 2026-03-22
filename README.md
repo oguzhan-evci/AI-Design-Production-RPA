@@ -122,7 +122,11 @@ Seçtiğiniz resmi masaüstüne veya rastgele bir yere değil, **MUTLAKA proje i
 
 Kullanıcı olarak en kaliteli tasarımı seçip 03-Gemini-Temp klasörüne manuel kaydettikten sonra Tamam 'a tıkladığınızda; geriye kalan tüm işlemler (Gemini SEO Analizi, RegEx İsimlendirme, Python ile Arka Plan Silme ve Gmail Raporlama) saniyeler içinde otonom olarak gerçekleşir.
 
-## ✨ Gelecek Planları (Future Roadmap)
+✨ Gelecek Planları (Future Roadmap)
+Bu proje, modüler bir RPA mimarisi üzerine inşa edilmiş olup, gelecek sürümlerde aşağıdaki geliştirmelerin entegre edilmesi planlanmaktadır:
 
-* [ ] **Tam Otonomi:** Gelecek versiyonlarda "Human-in-the-loop" (Kullanıcı seçimi) aşaması, gelişmiş bir AI Vision modeli ile kalite puanlaması yapılarak tamamen robota devredilecektir.
-* [ ] **Otomatik Yükleme (Auto-Upload):** Hazırlanan 300 DPI şeffaf PNG'lerin Redbubble, Merch by Amazon gibi platformlara doğrudan API veya UI otomasyonu ile yüklenmesi.
+[ ] Minimum Hard-Coding ve Kolay Kurulum: Projede sabit kod (hard-coding) kullanımı en aza indirilerek tüm kritik veriler Config.xlsx dosyasına bağlanmış ve son kullanıcı için hızlı/kolay kurulum sağlanmıştır. Gelecek aşamada, bu ayarların doğrudan UiPath Orchestrator Asset'lerine taşınarak tamamen bulut üzerinden yönetilebilir bir yapıya geçilmesi planlanmaktadır.
+
+[ ] Otomatik Yükleme (Auto-Upload) Entegrasyonu: Üretilen baskıya hazır (300 DPI) tasarımların, Gemini AI tarafından oluşturulan SEO başlık ve etiketleriyle birlikte hedef Print-on-Demand (POD) pazar yerlerine API veya arayüz (UI) otomasyonu ile doğrudan yüklenmesi.
+
+[ ] Otomatik Mockup Üretimi ve Pazarlama Otomasyonu: Şeffaf arka planlı tasarımların (PNG), Python görüntü işleme modülleri ile otomatik olarak sanal ürün görsellerine (tişört, kupa vb. mockup) dönüştürülmesi ve yapay zeka ile hazırlanan ilgi çekici metinlerle dijital pazarlama/sosyal medya kanallarında otonom olarak paylaşılması.
