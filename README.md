@@ -2,6 +2,7 @@
 
 Bu proje, Print-on-Demand (POD) iş modeliyle çalışan e-ticaret mağazaları için tasarım üretim, optimizasyon ve raporlama süreçlerini uçtan uca otomatize etmeyi amaçlamaktadır. Özellikle öğretmen meslek grubuna yönelik (niche) tasarımların seri üretimine odaklanan bu RPA robotu; manuel iş yükünü ortadan kaldırarak hızlı, SEO uyumlu ve baskıya hazır (print-ready) ürünler elde edilmesini sağlar.
 # 💡 Sesli Demo Videosu
+
 > ** Projenin otonom çalışma prensibini, **Gemini AI & Python** entegrasyonlarını ve arka planda işleyen **State Machine (Durum Makinesi)** mimarisini anlattığım **3.5 dakikalık inceleme videosunu** hemen aşağıdan izleyebilirsiniz. *(lütfen sesi açmayı unutmayın 🔊)*
 > 
 <div align="center">
