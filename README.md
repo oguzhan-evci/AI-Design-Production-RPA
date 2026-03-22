@@ -91,7 +91,24 @@ Dosyanın son hali böyle olmalıdır.
 
 * **Computer Vision (CV):** Ideogram arayüzündeki etkileşimler (buton tıklama vb.) için UiPath Proje Ayarlarından (veya Config dosyasından) UiPath Computer Vision API Key doğrulamasını mutlaka sağlayın.
 * **Ideogram Platformu:** Platformda üretim yapabilecek yeterli kredinizin bulunduğundan ve tarayıcıda oturumunuzun açık olduğundan emin olun.
+## 📂 Dosya Yapısı
 
+```text
+Yapay_Zeka_Destekli_Tasarim_Uretim_Yukleme_Sureci/
+├── Main.xaml                       <-- (Ana robot akışı)
+├── Main.xaml.json                  
+├── entry-points.json               
+├── project.json                    <-- (Bağımlılıklar ve global değişken kayıtları)
+├── project.uiproj                  
+├── Config.xlsx                     <-- (Ayar dosyası ana dizinde, Main.xaml ile yan yana olmalı)
+└── Uipath-Design-Production-Data/  <-- (Tüm veri yönetiminin yapıldığı ana klasör)
+    ├── design_production_tool.py   <-- ⚠️ Python scripti MUTLAKA bu klasörün içinde olmalıdır!
+    ├── 01-Templates/               
+    ├── 02-Work-In-Progress/        
+    ├── 03-Gemini-Temp/             
+    ├── 04-Optimize-Process/        
+    ├── 05-Final-Process/           
+    └── 06-Reports-Archive/
 ## 🛠️ Değişken Tanımlama Adımları
 
 Projenin sürdürülebilirliği ve tüm alt akışların (Workflows) aynı ayar setine erişebilmesi için aşağıdaki yapılandırma zorunludur:
