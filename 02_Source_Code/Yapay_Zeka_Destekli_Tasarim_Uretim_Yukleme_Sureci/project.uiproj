@@ -1,0 +1,6 @@
+{
+  "Name": "Yapay_Zeka_Destekli_Tasarim_Uretim_Yukleme_Sureci",
+  "ProjectType": "Process",
+  "Description": "\"Excel iş listesini takip ederek Ideogram platformu üzerinde yapay zeka destekli tasarımlar üreten, Gemini AI ile süreç analizi ve SEO isimlendirmesi yapan, Python scriptleri ile görsel optimizasyonu sağlayan uçtan uca tasarım otomasyonu.\"",
+  "MainFile": "Main.xaml"
+}

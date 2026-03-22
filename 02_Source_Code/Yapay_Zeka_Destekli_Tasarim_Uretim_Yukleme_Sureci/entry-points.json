@@ -1,0 +1,26 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "0e5a72ac-6fe9-4a06-a149-a3183a852a11",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_SheetName": {
+            "type": "string",
+            "x-default-expression": "\"Sayfa1\"",
+            "default": "Sayfa1"
+          },
+          "in_ConfigFilePath": {
+            "type": "string",
+            "x-default-expression": "\"Config.xlsx\"",
+            "default": "Config.xlsx"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}
