@@ -110,7 +110,7 @@ Yapay_Zeka_Destekli_Tasarim_Uretim_Yukleme_Sureci/
     ├── 04-Optimize-Process/        
     ├── 05-Final-Process/           
     └── 06-Reports-Archive/
-...
+```
 
 ## 🛠️ Değişken Tanımlama Adımları
 
