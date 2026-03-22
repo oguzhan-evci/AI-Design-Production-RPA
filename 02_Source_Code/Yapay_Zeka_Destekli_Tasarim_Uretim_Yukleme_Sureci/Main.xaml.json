@@ -22,7 +22,7 @@
       "DisplayName": "in_ConfigFilePath",
       "Category": null,
       "Tooltip": null,
-      "Placeholder": "C:\\Users\\User\\Desktop\\Uipath-Calismalar\\Uipath-Design-Production-Data\\Config.xlsx",
+      "Placeholder": "Config.xlsx",
       "Widget": null,
       "IsRequired": false,
       "IsPrincipal": true,
