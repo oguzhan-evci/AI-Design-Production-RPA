@@ -125,8 +125,8 @@ Kullanıcı olarak en kaliteli tasarımı seçip 03-Gemini-Temp klasörüne manu
 ✨ Gelecek Planları (Future Roadmap)
 Bu proje, modüler bir RPA mimarisi üzerine inşa edilmiş olup, gelecek sürümlerde aşağıdaki geliştirmelerin entegre edilmesi planlanmaktadır:
 
-[ ] Minimum Hard-Coding ve Kolay Kurulum: Projede sabit kod (hard-coding) kullanımı en aza indirilerek tüm kritik veriler Config.xlsx dosyasına bağlanmış ve son kullanıcı için hızlı/kolay kurulum sağlanmıştır. Gelecek aşamada, bu ayarların doğrudan UiPath Orchestrator Asset'lerine taşınarak tamamen bulut üzerinden yönetilebilir bir yapıya geçilmesi planlanmaktadır.
+* Minimum Hard-Coding ve Kolay Kurulum: Projede sabit kod (hard-coding) kullanımı en aza indirilerek tüm kritik veriler Config.xlsx dosyasına bağlanmış ve son kullanıcı için hızlı/kolay kurulum sağlanmıştır. Gelecek aşamada, bu ayarların doğrudan UiPath Orchestrator Asset'lerine taşınarak tamamen bulut üzerinden yönetilebilir bir yapıya geçilmesi planlanmaktadır.
 
-[ ] Otomatik Yükleme (Auto-Upload) Entegrasyonu: Üretilen baskıya hazır (300 DPI) tasarımların, Gemini AI tarafından oluşturulan SEO başlık ve etiketleriyle birlikte hedef Print-on-Demand (POD) pazar yerlerine API veya arayüz (UI) otomasyonu ile doğrudan yüklenmesi.
+* Otomatik Yükleme (Auto-Upload) Entegrasyonu: Üretilen baskıya hazır (300 DPI) tasarımların, Gemini AI tarafından oluşturulan SEO başlık ve etiketleriyle birlikte hedef Print-on-Demand (POD) pazar yerlerine API veya arayüz (UI) otomasyonu ile doğrudan yüklenmesi.
 
-[ ] Otomatik Mockup Üretimi ve Pazarlama Otomasyonu: Şeffaf arka planlı tasarımların (PNG), Python görüntü işleme modülleri ile otomatik olarak sanal ürün görsellerine (tişört, kupa vb. mockup) dönüştürülmesi ve yapay zeka ile hazırlanan ilgi çekici metinlerle dijital pazarlama/sosyal medya kanallarında otonom olarak paylaşılması.
+* Otomatik Mockup Üretimi ve Pazarlama Otomasyonu: Şeffaf arka planlı tasarımların (PNG), Python görüntü işleme modülleri ile otomatik olarak sanal ürün görsellerine (tişört, kupa vb. mockup) dönüştürülmesi ve yapay zeka ile hazırlanan ilgi çekici metinlerle dijital pazarlama/sosyal medya kanallarında otonom olarak paylaşılması.
